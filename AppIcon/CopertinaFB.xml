@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<!--
+/Users/andrea/Desktop/Projects/Muvitool/AppIcon/CopertinaFB.xml
+		
+		
+	ridimensionare immagine: sips -Z 128 AppIcon.png
+	creare ico:	png2ico favicon.ico AppIcon.png
+		
+	-->
+    <folderPath>/Users/andrea/Desktop/Projects/Muvitool/AppIcon</folderPath>
+    <filename>AppIcon</filename>
+    <extension>png</extension>
+    <window>
+		<width>1656</width>
+        <height>630</height>
+        <borderRadius>0</borderRadius>
+        <gradient1>FFFFFF</gradient1>
+        <gradient2>FFFFFF</gradient2>
+    </window>
+	
+    <command>
+        <name>addImage</name>
+        <param>AppIcon_512x512.png</param>
+        <param>572</param>
+        <param>59</param>
+        <param>512</param>
+        <param>512</param>
+    </command>   
+</template>

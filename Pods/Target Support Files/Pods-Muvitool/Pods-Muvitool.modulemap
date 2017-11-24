@@ -1,0 +1,6 @@
+framework module Pods_Muvitool {
+  umbrella header "Pods-Muvitool-umbrella.h"
+
+  export *
+  module * { export * }
+}

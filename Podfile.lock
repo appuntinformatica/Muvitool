@@ -1,0 +1,49 @@
+PODS:
+  - AudioPlayerManager (1.2.3)
+  - Eureka (3.1.0)
+  - GCDWebServer/Core (3.4.1)
+  - GCDWebServer/WebUploader (3.4.1):
+    - GCDWebServer/WebUploader/Core (= 3.4.1)
+  - GCDWebServer/WebUploader/Core (3.4.1):
+    - GCDWebServer/Core
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - SnapKit (3.2.0)
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+  - SwiftValidate (2.0.1)
+  - SwiftyJSON (3.1.4)
+  - SwiftyUserDefaults (3.0.0)
+  - XCGLogger (5.0.1):
+    - XCGLogger/Core (= 5.0.1)
+  - XCGLogger/Core (5.0.1):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - AudioPlayerManager (~> 1.2)
+  - Eureka (~> 3.1)
+  - GCDWebServer/WebUploader (~> 3.4)
+  - SnapKit (~> 3.2)
+  - SQLite.swift (~> 0.11.3)
+  - SwiftValidate (~> 2.0)
+  - SwiftyJSON (~> 3.1)
+  - SwiftyUserDefaults (~> 3.0)
+  - XCGLogger (~> 5.0)
+
+SPEC CHECKSUMS:
+  AudioPlayerManager: 02601ac29abb8efc0043c851ee5f5c79e69d77fa
+  Eureka: d6725c38d0dcdceaa331d1468f75e76315715ae0
+  GCDWebServer: 1db60034fe0e78a4a8524bd6c7cd97cd3c589870
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+  SwiftValidate: b25159abe77d99690c628a9060e2f6ac43409cad
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+  XCGLogger: 0b43697155d41e4a1b15fc776f319c2141646b09
+
+PODFILE CHECKSUM: 517daa298a563096eafe52c65ae9c9bbe730421e
+
+COCOAPODS: 1.3.0.beta.1

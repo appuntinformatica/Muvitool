@@ -1,0 +1,140 @@
+
+
+
+
+
+"Add bookmark" = "Aggiungi segnalibro";
+"Adding video" = "Aggiungi video";
+"Add music" = "Aggiungi musica";
+"Add to playlist" = "Aggiungi alla playlist";
+"Advice" = "Suggerimento";
+"Airpods Mode" = "Modalità airpods";
+"Allow you to download a video" = "Permetti di scaricare il video";
+"App Version %@" = "Versione App %@";
+"Are you sure?" = "Sei sicuro?";
+"Artist" = "Artista";
+"Artist cannot be empty" = "il dato artista non può essere vuoto";
+
+"Bookmarks" = "Segnalibri";
+"Browser" = "Browser";
+
+"Cancel" = "Annulla";
+"Cancelled extracting audio" = "Estrazione audio annullata";
+"You can't insert empty data!" = "Non è possibile inserire i dati vuoti!";
+"Clear" = "Pulisci";
+"Clear photo" = "Cancella foto";
+"Clear all data and cookie" = "Elimina tutti i dati e i cookie";
+"Close" = "Chiudi";
+"Contact" = "Contatta";
+"Cover" = "Copertina";
+
+"Delete" = "Elimina";
+"Delete playlist" = "Elimina playlist";
+"Denied to the roll" = "Accesso negato al rullino";
+"Description" = "Descrizione";
+"Disable" = "Disabilita";
+"Done" = "Fatto";
+"Download" = "Download";
+"Downloaded" = "Scaricato";
+"Downloading" = "Download";
+
+"Edit" = "Modifica";
+"Email" = "Email";
+"Must be a valid email address" = "Deve essere un indirizzo email valido";
+"Empty input data" = "Dati di input vuoti";
+"Enable" = "Abilita";
+"End" = "Fine";
+"Error" = "Errore";
+"Error sending email!" = "Errore invio email!";
+"Extract audio" = "Estrai audio";
+"Extration audio in progress..." = "Estrazione audio in corso...";
+
+"Failed extracting audio" = "Estrazione audio fallita";
+"This field is required" = "Il dato è richiesto";
+"Filename" = "Nome del file";
+"Filename already exists. Override?" = "Il nome del file esiste già. Sovrascrivere?";
+"Filename cannot be empty" = "Il nome del file non può essere vuoto";
+"The filename is contained in one or more playlists. Delete anyway?" = "Il nome del file è contenuto in una o più playlist. Eliminare comunque?";
+"Please enter filename" = "Scrivi il nome del file";
+"Files uploaded" = "File caricati";
+"From your computer" = "Dal tuo computer";
+"Fullname" = "Nome";
+
+"Go to settings -> %@ -> Photos -> Switch On" = "Vai in impostazioni -> %@ -> Foto -> Abilita";
+
+"History" = "Cronologia";
+"Home Page" = "Pagina iniziale";
+"hour" = "un'ora";
+"%@ hours" = "%@ ore";
+
+"Informations" = "Informazioni";
+
+"Load from roll" = "Carica dal rullino";
+
+"a minute" = "un minuto";
+"%@ minutes" = "%@ minuti";
+"Sorry, there doesn’t seem to be an internet connection" = "Mi dispiace, non sembra esserci una connessione a internet";
+"Music" = "Musica";
+"Music used space: %@" = "Spazio usato per la musica: %@";
+
+"OK" = "Ok";
+"Other" = "Altro";
+
+"Name" = "Nome";
+"No" = "No";
+
+"Pause" = "Pausa";
+"Photo library" = "Rullino foto";
+"Pick an option..." = "Scegli un'opzione...";
+"Play" = "Riproduci";
+"Playlist" = "Playlist";
+"Playlist item" = "Audio";
+"Playlist title" = "Titolo";
+"Please enter artist" = "Scrivere l'artista";
+
+"Rating App" = "Valutazione App";
+"Remove" = "Rimuovi";
+"Rename" = "Rinomina";
+"Report bugs" = "Malfunzionamenti";
+"Retry" = "Riprova";
+
+"Save" = "Salva";
+"Save to roll" = "Salva nel rullino";
+"Saved photos" = "Foto salvate";
+"Save you changes?" = "Salvare le modifiche?";
+"Send" = "Invia";
+"a second" = "un secondo";
+"%@ seconds" = "%@ secondi";
+"Search engine" = "Motore di ricerca";
+"Search or enter address" = "Cerca o inserisci l'indirizzo";
+"Settings" = "Impostazioni";
+"Share Facebook page" = "Condividi pagina Facebook";
+"%@ of %@ downloaded" = "%@ di %@ scaricati";
+"Start" = "Inizia";
+"Success extracting audio" = "Estrazione audio avvenuta con successo";
+"Successfully sent email!" = "Email inviata con successo!";
+"Sorry, there doesn’t seem to be an internet connection" = "Ci dispiace, non sembra che ci sia una connessione a Internet";
+
+"Take photo" = "Scatta una foto";
+"Title" = "Titolo";
+"Title cannot be empty" = "Il titolo non può essere vuoto";
+"Please enter title" = "Scrivi il titolo";
+"Third Party Software" = "Software di terze parti";
+"Type message" = "Tipologia di messaggio";
+
+"Unable extracting audio" = "Impossibile eseguire l'estrazione audio";
+"Unknown error during extracting audio" = "Errore inatteso durante l'estrazione audio";
+"Url" = "Indirizzo";
+"Uploading" = "Caricamento";
+"Upload from browser" = "Carica dal web browser (Chrome, Firefox)";
+
+"Waiting extracting audio (%@ %)" = "Attendere estrazione audio (%@ %)";
+"Want you download this video?" = "Vuoi scaricare questo video?";
+
+"Video" = "Video";
+"Video can't be saved" = "Il video non può essere salvato";
+"Video downloads have been disabled in the Settings" = "Il download dei video è stato disabilitato nelle Impostazioni";
+"Video was successfully saved" = "Il video è stato salvato con successo";
+"Video used space: \(size)" = "Spazio usato per i video: \(size)";
+
+"Yes" = "Si";

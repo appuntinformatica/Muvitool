@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<!--
+/Users/andrea/Desktop/Projects/Muvitool/AppIcon/template.xml
+		
+		
+	ridimensionare immagine: sips -Z 128 AppIcon.png
+	creare ico:	png2ico favicon.ico AppIcon.png
+		
+	-->
+    <folderPath>/Users/andrea/Desktop/Projects/Muvitool/AppIcon</folderPath>
+    <filename>AppIcon</filename>
+    <extension>png</extension>
+    <window>
+        <width>1024</width>
+        <height>1024</height>
+		<!--<width>1656</width>
+        <height>630</height>-->
+        <borderRadius>0</borderRadius>
+        <gradient1>FFFFFF</gradient1>
+        <gradient2>FFFFFF</gradient2>
+    </window>
+
+	
+    <command>
+        <name>drawGradientCircle</name>
+        <param>50</param>
+        <param>BBBBBB</param>
+        <param>4D4D4D</param>
+    </command>
+	
+    <command>
+        <name>drawGradientCircle</name>
+        <param>80</param>
+        <param>FFFAFA</param>
+        <param>0000FF</param>
+    </command>
+
+	
+    <command>
+        <name>addImage</name>
+        <param>video.png</param>
+        <param>230</param>
+        <param>150</param>
+        <param>600</param>
+        <param>600</param>
+    </command>
+    
+    <command>
+        <name>addImage</name>
+        <param>icons8-audio_wave_filled.png</param>
+        <param>312</param>
+        <param>600</param>
+        <param>400</param>
+        <param>300</param>
+    </command>
+	
+    <command>
+        <name>addImage</name>
+        <param>icons8-maintenance.png</param>
+        <param>600</param>
+        <param>500</param>
+        <param>240</param>
+        <param>240</param>
+    </command>
+	
+	
+	<!--
+    <command>
+        <name>drawText</name>
+        <param>Apple Color Emoji</param>
+        <param>FFFFFF</param>
+        <param>80</param>
+        <param>MIBESoft</param>
+        <param>320</param>
+        <param>920</param>
+   </command>-->
+   
+</template>

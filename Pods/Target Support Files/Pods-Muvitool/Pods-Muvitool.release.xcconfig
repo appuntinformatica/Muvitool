@@ -1,0 +1,11 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/AudioPlayerManager" "$PODS_CONFIGURATION_BUILD_DIR/Eureka" "$PODS_CONFIGURATION_BUILD_DIR/GCDWebServer" "$PODS_CONFIGURATION_BUILD_DIR/ObjcExceptionBridging" "$PODS_CONFIGURATION_BUILD_DIR/SQLite.swift" "$PODS_CONFIGURATION_BUILD_DIR/SnapKit" "$PODS_CONFIGURATION_BUILD_DIR/SwiftValidate" "$PODS_CONFIGURATION_BUILD_DIR/SwiftyJSON" "$PODS_CONFIGURATION_BUILD_DIR/SwiftyUserDefaults" "$PODS_CONFIGURATION_BUILD_DIR/XCGLogger"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$PODS_CONFIGURATION_BUILD_DIR/AudioPlayerManager/AudioPlayerManager.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/Eureka/Eureka.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/GCDWebServer/GCDWebServer.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/ObjcExceptionBridging/ObjcExceptionBridging.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SQLite.swift/SQLite.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SnapKit/SnapKit.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SwiftValidate/SwiftValidate.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SwiftyJSON/SwiftyJSON.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/SwiftyUserDefaults/SwiftyUserDefaults.framework/Headers" -iquote "$PODS_CONFIGURATION_BUILD_DIR/XCGLogger/XCGLogger.framework/Headers"
+OTHER_LDFLAGS = $(inherited) -framework "AudioPlayerManager" -framework "Eureka" -framework "GCDWebServer" -framework "ObjcExceptionBridging" -framework "SQLite" -framework "SnapKit" -framework "SwiftValidate" -framework "SwiftyJSON" -framework "SwiftyUserDefaults" -framework "XCGLogger"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods

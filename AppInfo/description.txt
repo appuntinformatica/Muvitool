@@ -1,0 +1,32 @@
+
+Music,Video,Playlist,Play,Estrai audio,M4A,MP3
+
+https://itunes.apple.com/it/app/muvitool/id1276040839?ls=1&mt=8
+
+Muvitool è una App per dispositivi iOS, iPad e iPhone, completamente gratuita e senza la presenza di pubblicità, la quale consente di gestire archivi video e audio.
+Le funzionalità principali sono:
+- Gestione archivio video
+- Gestione archivio musica
+- Salvataggio dei video nella camera roll
+- Caricamento dei video dalla camera roll
+- Estrazione dell'audio dai video scaricati in formato m4a, impostazione di: titolo, artista e copertina
+- Gestione di playlist musicali
+- Possibilità di caricare video e musica da qualsiasi computer collegato alla stessa rete Wireless a cui è collegato anche il telefono
+- Riproduzione musica in background
+
+_________________________________________________________________________________________________________
+
+Music,Video,Playlist,Play,Extract audio,M4A,MP3
+
+https://itunes.apple.com/us/app/muvitool/id1276040839?ls=1&mt=8
+
+Muvitool is an App for iOS, iPad and iPhone devices, completely free and without the presence of advertising, which allows you to manage video and audio archives.
+The main features are:
+- Video archive management
+- Music Store Manager
+- Saving Videos in the Roll Room
+- Uploading videos from the roll room
+- Extract audio from downloaded videos in m4a format, setting: title , artist and cover
+- Manage musical playlists
+- Possibility to upload video and music from any computer connected to the same wireless network to which the phone is connected
+- Play music in the background
