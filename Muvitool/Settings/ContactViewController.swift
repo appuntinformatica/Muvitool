@@ -136,8 +136,8 @@ class ContactViewController: UIViewController, ValidationDelegate, UITextFieldDe
         let session = MCOSMTPSession()
         session.hostname = "smtp.gmail.com"
         session.port = 465
-        session.username = "andmin77"
-        session.password = "PwdGoogle09"
+        session.username = "username"
+        session.password = "password"
         session.connectionType = .TLS
         session.authType = [.saslPlain, .saslLogin, .xoAuth2]
         session.connectionLogger = { (connectionID, type, data) in
@@ -148,8 +148,8 @@ class ContactViewController: UIViewController, ValidationDelegate, UITextFieldDe
         let builder = MCOMessageBuilder()
         let appName = Bundle.main.infoDictionary![kCFBundleNameKey as String] as! String
         let displayName = "\(appName)"
-        builder.header.from = MCOAddress(displayName: displayName, mailbox: "andmin77@gmail.com")
-        builder.header.to = [MCOAddress(displayName: displayName, mailbox: "andreaminnucci77@gmail.com")]
+        builder.header.from = MCOAddress(displayName: displayName, mailbox: "source@domain.com")
+        builder.header.to = [MCOAddress(displayName: displayName, mailbox: "dest@domain.com")]
         builder.header.subject = "\(displayName) \(Date())"
         let description = self.descriptionTextView.text.convertHtmlSymbols()
         self.log.info(description)
